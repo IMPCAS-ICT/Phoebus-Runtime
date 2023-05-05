@@ -27,7 +27,7 @@
       <artifactId>app-probe</artifactId>
       <version>4.7.2-SNAPSHOT</version>
     </dependency>
-    <dependency>
+    <!-- dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-logbook-inmemory</artifactId>
       <version>4.7.2-SNAPSHOT</version>
@@ -55,7 +55,7 @@
       <artifactId>app-logbook-olog-client-es</artifactId>
       <version>4.7.2-SNAPSHOT</version>
       <optional>true</optional>
-    </dependency>
+    </dependency -->
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-pvtable</artifactId>
@@ -116,11 +116,11 @@
       <artifactId>app-display-thumbwheel</artifactId>
       <version>4.7.2-SNAPSHOT</version>
     </dependency>
-    <dependency>
+    <!-- dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-display-editor</artifactId>
       <version>4.7.2-SNAPSHOT</version>
-    </dependency>
+    </dependency -->
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-display-navigation</artifactId>
